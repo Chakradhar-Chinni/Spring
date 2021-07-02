@@ -6,3 +6,4 @@ public interface Vehicle
 	void run();
 }
 // As interface methods are public by-default no need to mention 'public'(access specifier)
+ 
